@@ -1,0 +1,77 @@
+
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    background-image: url("Sensebackground.png");
+    
+  }
+
+  .center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .fa-reddit{
+    background: black;
+    color:white;
+  }
+
+  .fa-tumblr{
+    background: black;
+    color: white;
+
+   
+  }
+
+.icon1{
+  position: relative;
+   
+}
+.icon2 {
+position: relative;
+
+}
+
+.spotify{
+  position: fixed;
+  bottom: 50px;
+  left: 50px;
+  background-image: url(./images/spotify.jpg);
+  background-color: white;
+  width: 100px;
+  height: 100px;
+
+}
+.SC{
+  position: fixed;
+  bottom: 50px;
+  left: 225px;
+  background-image: url(./images/spotify.jpg);
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
+
+
+
+.elfsight-app-1d030f24-4e17-4cfe-937e-25c9857ec23d{
+  position: fixed;
+  bottom: -50px;
+  background-color: blue;
+}
+;
+
